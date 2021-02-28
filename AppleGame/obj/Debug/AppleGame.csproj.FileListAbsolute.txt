@@ -1,0 +1,17 @@
+C:\Users\qukmo\source\repos\AppleGame\bin\Debug\AppleGame.exe.config
+C:\Users\qukmo\source\repos\AppleGame\bin\Debug\AppleGame.exe
+C:\Users\qukmo\source\repos\AppleGame\bin\Debug\AppleGame.pdb
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.csprojAssemblyReference.cache
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\MainMenu.g.cs
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\MainWindow.g.cs
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\App.g.cs
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame_MarkupCompile.cache
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame_MarkupCompile.lref
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\MainMenu.baml
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\MainWindow.baml
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.g.resources
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.Properties.Resources.resources
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.csproj.GenerateResource.cache
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.csproj.CoreCompileInputs.cache
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.exe
+C:\Users\qukmo\source\repos\AppleGame\obj\Debug\AppleGame.pdb
